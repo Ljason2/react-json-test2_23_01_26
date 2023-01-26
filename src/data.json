@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "pic":"/pic/portfolio-img-1.jpg",
+        "title":"THE BLUE A",
+        "type":"PRINT, BRANDING"
+    },
+    {
+        "id":2,
+        "pic":"/pic/portfolio-img-2.jpg",
+        "title":"GREEN GARDEN",
+        "type":"PRINT"
+    },
+    {
+        "id":3,
+        "pic":"/pic/portfolio-img-3.jpg",
+        "title":"ME.YOU.BED.NOW",
+        "type":"FASHION"
+    },
+    {
+        "id":4,
+        "pic":"/pic/portfolio-img-4.jpg",
+        "title":"THE LONELY CHAIR IN THE WORLD",
+        "type":"INTERIOR"
+    },
+    {
+        "id":5,
+        "pic":"/pic/portfolio-img-5.jpg",
+        "title":"BACK PACK COLLECTION SHOOT",
+        "type":"PHOTOGRAPHY"
+    },
+    {
+        "id":6,
+        "pic":"/pic/portfolio-img-6.jpg",
+        "title":"ALL WHITE SNEAKERS",
+        "type":"PHOTOGRAPHY"
+    },
+    {
+        "id":7,
+        "pic":"/pic/portfolio-img-7.jpg",
+        "title":"BROWN CLUTCH",
+        "type":"FASHION"
+    },
+    {
+        "id":8,
+        "pic":"/pic/portfolio-img-8.jpg",
+        "title":"RECYCLE BAGS",
+        "type":"PHOTOGRAPHY"
+    }
+]
